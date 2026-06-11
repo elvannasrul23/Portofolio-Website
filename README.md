@@ -7,7 +7,10 @@ A clean, responsive portfolio website built with HTML5, custom CSS, and the Boot
 ## Screenshot
 
 <!-- Anda dapat mengganti link src di bawah ini dengan screenshot website Anda yang sebenarnya -->
-<img width="515" height="492" alt="image" src="https://github.com/user-attachments/assets/db129eec-973a-4149-a492-f6e311c1e911" />
+<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/483a4d73-d336-4cce-a32b-11df429b3af3" />
+<img width="1918" height="780" alt="image" src="https://github.com/user-attachments/assets/43c6a7b0-9481-4872-837e-cee526a1617f" />
+<img width="1887" height="724" alt="image" src="https://github.com/user-attachments/assets/49474940-1960-4a5c-a1e6-55cc7274cdb7" />
+
 
 ---
 
