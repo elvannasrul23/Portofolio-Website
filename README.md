@@ -4,6 +4,13 @@ A clean, responsive portfolio website built with HTML5, custom CSS, and the Boot
 
 ---
 
+## Screenshot
+
+<!-- Anda dapat mengganti link src di bawah ini dengan screenshot website Anda yang sebenarnya -->
+<img width="515" height="492" alt="image" src="https://github.com/user-attachments/assets/db129eec-973a-4149-a492-f6e311c1e911" />
+
+---
+
 ## Overview
 
 Visitors can explore Elvan's top projects (ranging from Data Analysis and Smart IoT Systems to Deep Learning), read about the portfolio's purpose, and experience smooth scroll animations. The layout is optimized for all devices using Bootstrap's responsive grid system.
