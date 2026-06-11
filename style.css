@@ -1,0 +1,36 @@
+/* Custom Colors to match the reference images */
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+.custom-dark-bg {
+    background-color: #343a40 !important; /* Bootstrap dark gray */
+}
+
+.custom-red-bg {
+    background-color: #d9534f !important; /* Classic Bootstrap danger/brand red */
+}
+
+.custom-light-bg {
+    background-color: #f4f4f4 !important; /* Very light gray for About section */
+}
+
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.15) !important;
+}
+
+.card img {
+    transition: transform 0.5s ease;
+}
+
+.card:hover img {
+    transform: scale(1.08);
+}
